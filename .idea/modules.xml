@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/consumer-user/consumer-user.iml" filepath="$PROJECT_DIR$/consumer-user/consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-user/consumer-user.iml" filepath="$PROJECT_DIR$/consumer-user/consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka.iml" filepath="$PROJECT_DIR$/eureka-server/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-ticket/provider-ticket.iml" filepath="$PROJECT_DIR$/provider-ticket/provider-ticket.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-ticket/provider-ticket.iml" filepath="$PROJECT_DIR$/provider-ticket/provider-ticket.iml" />
     </modules>
   </component>
